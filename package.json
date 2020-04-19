@@ -1,0 +1,23 @@
+{
+  "name": "test-ci-repo",
+  "version": "1.0.0",
+  "description": "repository for testing CI server",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appalse/test-CI-repo.git"
+  },
+  "keywords": [
+    "shri-2020"
+  ],
+  "author": "appalse-Natalia-Karaseva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appalse/test-CI-repo/issues"
+  },
+  "homepage": "https://github.com/appalse/test-CI-repo#readme"
+}
